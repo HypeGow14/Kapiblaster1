@@ -1,12 +1,12 @@
 {
-	"name": "website",
+	"name": "Kapiblaster",
 	"version": "1.0.0",
 	"license": "GPL-3.0",
 	"type": "module",
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://git.holy.how/holy/website.git"
+		"url": "https://github.com/HypeGow14/Kapiblaster1"
 	},
 	"dependencies": {
 		"@emotion/react": "^11.10.4",
